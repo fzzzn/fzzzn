@@ -2,7 +2,7 @@
 
 ## 📝 Blogs
 
-- Soon.
+- Personal website and blog: https://fzzzn.my.id
 
 ## 🔧 Technologies & Tools
 
