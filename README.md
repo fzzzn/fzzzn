@@ -14,6 +14,8 @@
 ## 📰 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [test newsletter 3](https://fzzzn.my.id/test-newsletter-3/)
+- [test newsletter 2](https://fzzzn.my.id/test-newsletter-2/)
 - [Membuat Saklar Pintar Menggunakan ESP8266](https://fzzzn.my.id/membuat-saklar-pintar-menggunakan-esp8266/)
 - [Hello!](https://fzzzn.my.id/hello/)
 <!-- BLOG-POST-LIST:END -->
