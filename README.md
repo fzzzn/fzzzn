@@ -14,7 +14,6 @@
 ## 📰 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Seleksi ITNSA SMKN 2 Depok Sleman](https://fzzzn.my.id/seleksi-itnsa-smkn-2-depok-sleman/)
 - [Membuat Saklar Pintar Menggunakan ESP8266](https://fzzzn.my.id/membuat-saklar-pintar-menggunakan-esp8266/)
 - [Hello!](https://fzzzn.my.id/hello/)
 <!-- BLOG-POST-LIST:END -->
