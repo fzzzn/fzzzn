@@ -14,6 +14,7 @@
 ## 📰 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Membuat VM Template Ubuntu 22.04 di Proxmox Dengan Cloud Init](https://fzzzn.my.id/cara-membuat-vm-template-ubuntu-22-04-di-proxmox-dengan-cloud-init/)
 - [Install icinga2 di Ubuntu server dengan Postgresql](https://fzzzn.my.id/install-icinga2-di-ubuntu-sever/)
 - [Seleksi ITNSA SMKN 2 Depok Sleman](https://fzzzn.my.id/seleksi-itnsa-smkn-2-depok-sleman/)
 - [Membuat Saklar Pintar Menggunakan ESP8266](https://fzzzn.my.id/membuat-saklar-pintar-menggunakan-esp8266/)
