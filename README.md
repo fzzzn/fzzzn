@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Next.js, Tailwind CSS, and Tunneling**
 
-- 👨‍💻 All of my projects are available at [https://fzzzn.my.id](https://fzzzn.my.id)
+- 👨‍💻 All of my projects are available at [https://rizkyfauzan.id](https://rizkyfauzan.id)
 
-- 📝 I regularly write articles on [https://fzzzn.my.id](https://fzzzn.my.id)
+- 📝 I regularly write articles on [https://rizkyfauzan.id](rizkyfauzan.od)
 
-- 📫 How to reach me **fauzan@zxn.my.id**
+- 📫 How to reach me **contact@rizkyfauzan.id**
 
 ## 📰 Blogs posts
 
