@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rizky Fauzan Hanif</h1>
-<h3 align="center">Tech Enthusiast.</h3>
 
 - 🌱 I’m currently learning **Networking, DevOps, Cyber Security, and Web Development**
 
@@ -7,7 +6,7 @@
 
 - 📝 I regularly write articles on [https://rizkyfauzan.id](rizkyfauzan.id)
 
-- 📫 How to reach me **contact@rizkyfauzan.id**
+- 📫 How to reach me contact@rizkyfauzan.id
 
 ## 📰 Blogs Posts
 
@@ -40,12 +39,12 @@
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 
 ## &#x1f4c8; GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fzzzn&show_icons=true&locale=en&theme=dark" alt="fzzzn" /></p>
+<a href="https://github.com/fzzzn" target="_blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fzzzn&show_icons=true&locale=en&theme=dark" alt="fzzzn" /></a>
 
 ## 👨‍💻 Wakatime Stats
 
@@ -53,4 +52,4 @@
 
 ---
 
-<p align="center">Thank you for reading, have a nice day 👍</p>
+<p align="center">Thank you for checking my profile, have a nice day 👍</p>
