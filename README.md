@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rizkyfauzan.id](https://rizkyfauzan.id)
 
-- 📝 I regularly write articles on [https://rizkyfauzan.id](rizkyfauzan.id)
+- 📝 I regularly write articles on [https://blog.rizkyfauzan.id](blog.rizkyfauzan.id)
 
 - 📫 How to reach me contact@rizkyfauzan.id
 
