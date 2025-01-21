@@ -12,7 +12,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Cara Membuat VM Template Ubuntu 22.04 di Proxmox Dengan Cloud Init](https://blog.rizkyfauzan.id/cara-membuat-vm-template-ubuntu-22-04-di-proxmox-dengan-cloud-init/)
-- [Cara Install Icinga2 di Ubuntu Server Dengan PostgreSQL](https://blog.rizkyfauzan.id/cara-install-icinga2-di-ubuntu-server-dengan-postgresql/)
+- [Install icinga2 di Ubuntu server dengan Postgresql](https://blog.rizkyfauzan.id/install-icinga2-di-ubuntu-sever/)
 - [Seleksi ITNSA SMKN 2 Depok Sleman](https://blog.rizkyfauzan.id/seleksi-itnsa-smkn-2-depok-sleman/)
 - [Membuat Saklar Pintar Menggunakan ESP8266](https://blog.rizkyfauzan.id/membuat-saklar-pintar-menggunakan-esp8266/)
 - [Hello!](https://blog.rizkyfauzan.id/hello/)
