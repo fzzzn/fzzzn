@@ -32,10 +32,6 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/></a>
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/fzzzn" target="_blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fzzzn&show_icons=true&locale=en&theme=dark" alt="github stats" /></a>
-
 ## 👨‍💻 Wakatime
 [![wakatime](https://wakatime.com/badge/user/defce304-d640-49eb-a1ca-84a650116506.svg)](https://wakatime.com/@defce304-d640-49eb-a1ca-84a650116506)
 
