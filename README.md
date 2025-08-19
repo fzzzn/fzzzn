@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rizky Fauzan Hanif</h1>
 
-- 🌱 I’m currently learning **Networking, DevOps, Cyber Security, and Web Development**
+A passionate Network Engineer with interests in Cloud Engineering and Cybersecurity, based in Sleman, Special Region of Yogyakarta. Currently, I am a student at SMK Negeri 2 Depok Sleman. I enjoy exploring and learning new technologies such as Kubernetes, Docker, virtualization, BGP, VPNs, firewalls, traffic control, IPv6, and network security.
 
-- 👨‍💻 See my personal website at [https://rizkyfauzan.id](https://rizkyfauzan.id)
+To deepen my knowledge, I have earned MikroTik Certified Network Associate (MTCNA), MikroTik Certified Traffic Control Engineer (MTCTCE), and IPv6 Sage by Hurricane Electric, as well as additional certifications in programming, cybersecurity, and cloud computing.
 
-- 📝 I regularly write posts on [https://notes.rizkyfauzan.id](https://notes.rizkyfauzan.id)
+I care about infrastructure that is reliable, maintainable, and scalable.
 
-- 📫 How to reach me contact@rizkyfauzan.id
+<hr/>
+
+👨‍💻 See my personal website at [https://rizkyfauzan.id](https://rizkyfauzan.id)
+
+📝 I'm sometimes write notes on [https://notes.rizkyfauzan.id](https://notes.rizkyfauzan.id)
+
+📫 How to reach me contact@rizkyfauzan.id
 
 ## 🔧 Technologies & Tools
 
